@@ -11,7 +11,7 @@
   * An xws each, for the library-kernels and the test-driver.
     Ex : HiFi3_VFPU_Library_v5_0_0.xws & HiFi3_VFPU_Demo_v5_0_0.xws
   * Building and executing the xws in Xtensa Xplorer is described in the API Reference Document. 
-  * Building and executing the source code in linux is described in the https://github.com/foss-xtensa/ndsplib-hifi3z/tree/main/doc. 
+  * Building and executing the source code in linux is described in the https://github.com/foss-xtensa/ndsplib-hifi3/tree/main/doc. 
   * Detailed release documentation can be extracted from lib.xws/doc folder.
 
 ### Release v5.0.0 Brief:
